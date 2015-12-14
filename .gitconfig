@@ -1,0 +1,4 @@
+[core]
+	excludesfile = /Users/kiri/.gitignore
+[alias]
+      st = status

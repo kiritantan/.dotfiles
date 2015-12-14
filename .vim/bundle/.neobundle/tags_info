@@ -1,0 +1,14 @@
+ir_black
+jedi-vim
+neobundle.vim
+neocomplcache
+syntastic
+trunk
+unite-colorscheme
+unite-outline
+unite.vim
+vim-autoclose
+vim-hybrid
+vim-quickrun
+vimproc.vim
+vimshell
