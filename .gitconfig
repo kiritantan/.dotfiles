@@ -1,4 +1,5 @@
 [core]
 	excludesfile = /Users/kiri/.gitignore
+    editor = vim
 [alias]
       st = status
