@@ -74,7 +74,13 @@ NeoBundleLazy 'https://conque.googlecode.com/svn/trunk/', { 'autoload' : { 'comm
 
 " Setting
 filetype plugin indent on
+if has('unix') 
+colorscheme desert
+endif
+
+if has('mac')
 colorscheme ir_black
+endif
 
 syntax on
 
