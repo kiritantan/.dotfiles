@@ -16,9 +16,9 @@ NeoBundle 'Townk/vim-autoclose'
 NeoBundle 'scrooloose/syntastic'
 NeoBundle 'thinca/vim-quickrun'
 NeoBundle 'h1mesuke/unite-outline'
+NeoBundle 'nanotech/jellybeans.vim'
 NeoBundle 'davidhalter/jedi-vim'
 NeoBundle 'w0ng/vim-hybrid'
-NeoBundle 'twerth/ir_black'
 NeoBundle 'Shougo/vimshell'
 NeoBundle 'Shougo/neocomplcache'
 NeoBundle 'Shougo/vimproc.vim', {
@@ -75,7 +75,7 @@ NeoBundleLazy 'https://conque.googlecode.com/svn/trunk/', { 'autoload' : { 'comm
 " Setting
 filetype plugin indent on
 
-colorscheme ir_black
+colorscheme jellybeans
 
 syntax on
 
